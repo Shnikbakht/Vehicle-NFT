@@ -1,0 +1,25 @@
+{
+  "name": "finalproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "hardhat": "^2.22.6"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2",
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "ethers": "5.4",
+    "ipfs-http-client": "^56.0.1",
+    "keccak256": "^1.0.6",
+    "merkletreejs": "^0.4.0"
+  }
+}
